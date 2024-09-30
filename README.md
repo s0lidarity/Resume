@@ -1,1 +1,1 @@
-# [Resume as of October 24](Andrew_S_Resume.pdf)
+# [Resume as of October 24](./Andrew_S_Resume.pdf)
